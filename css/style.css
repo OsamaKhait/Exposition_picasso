@@ -79,3 +79,15 @@
   display: block;
   border-radius: 30px;
 }
+
+.carousel-inner {
+  max-width: 600px;
+  margin: auto;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
